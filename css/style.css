@@ -12,7 +12,7 @@
     hsl(240, 1%, 25%) 3%, 
     hsl(0, 0%, 19%) 97%
   );
-  --bg-gradient-jet: linear-gradient(to bottom right, rgb(0, 0, 0) 0%, hsla(240, 2%, 11%, 0) 100%), hsl(240, 2%, 13%);
+--bg-gradient-jet: linear-gradient(to bottom right, rgb(0, 0, 0) 0%, hsla(240, 2%, 11%, 0) 100%), hsl(240, 2%, 13%);
 
 
 	
