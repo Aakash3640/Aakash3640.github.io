@@ -1863,8 +1863,8 @@ textarea.form-input::-webkit-resizer { display: none; }
     background-color: #39ff14;
     animation: 1.5s pulse infinite ease-in-out;
     position: absolute;
-    bottom: 111px;
-        right: 49px;
+   bottom: 125px;
+        right: 57px;
 }
 
 @keyframes pulse {
